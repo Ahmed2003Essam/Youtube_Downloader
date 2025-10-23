@@ -1,4 +1,4 @@
-🎥 # YouTube Video Downloader (Python)
+# 🎥 YouTube Video Downloader (Python)
 
 A personal project that provides a simple **GUI-based YouTube Video Downloader** built with **Tkinter** and **Pytube**.
 The app lets users paste a YouTube link, select a download folder, and automatically save the video in the **highest available resolution**.
