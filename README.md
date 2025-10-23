@@ -25,7 +25,7 @@ The app lets users paste a YouTube link, select a download folder, and automatic
 ## Installation
 
 ### Clone the repository
-git clone https://github.com/Ahmed2003Essam/Youtube_Downloader/
+git clone https://github.com/Ahmed2003Essam/Youtube_Downloader.git
 
 ### Install dependencies
 pip install pytube moviepy
