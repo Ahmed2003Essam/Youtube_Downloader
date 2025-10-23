@@ -21,3 +21,12 @@ The app lets users paste a YouTube link, select a download folder, and automatic
 2. Paste a YouTube video link into the input field.
 3. Choose a folder to save the video.
 4. Click Download File and wait until it finishes.
+
+## Installation
+
+### Clone the repository
+git clone https://github.com/Ahmed2003Essam/youtube-video-downloader.git
+
+### Install dependencies
+pip install pytube moviepy
+
